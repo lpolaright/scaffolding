@@ -9,3 +9,8 @@ This is an attempt to just set a scaffolding for myself - so I wouldn't have to 
 ### Client
 - Rollup
 - Babel for ES6
+
+### Server
+- NodeJS
+- Express
+- Babel (for ES6)
